@@ -40,11 +40,7 @@ We stock kits from top clubs including:
 - AC Milan
 - And many more!
 
-## 📞 Contact Information
 
-- **WhatsApp**: +92 321 765 4321
-- **Email**: info@finalthreads.pk
-- **Location**: Islamabad, Pakistan
 
 ## 💻 Technologies Used
 
