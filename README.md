@@ -4,7 +4,7 @@ Welcome to **Final Threads**, your premier destination for authentic and replica
 
 ## 🌐 Live Website
 
-Visit us at: [https://your-username.github.io](https://your-username.github.io)
+Visit us at: [https://finalthreads.github.io](https://finalthreads.github.io)
 
 ## 📋 About
 
